@@ -1,0 +1,1 @@
+"Parche: Arreglo del grafico que contenia un error" 
