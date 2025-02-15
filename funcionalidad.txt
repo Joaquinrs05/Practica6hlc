@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Parche: Arreglo del grafico que contenia un error" 
+=======
+"Funcionalidad para agregar csv" 
+>>>>>>> export_csv
